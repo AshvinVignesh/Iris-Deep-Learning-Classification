@@ -10,4 +10,4 @@ This porject is done using core deep learning model building concepts using the 
 <h4>4.Number of Bach size - 16</h4>
 <br>
 <br>
-![screenshot](Screenshot (521).jpg)
+![Screenshot (521)](https://github.com/AshvinVignesh/Iris-Deep-Learning-Classification/assets/100078442/a4e6698a-7716-473c-84ab-afcce02d93ea)
